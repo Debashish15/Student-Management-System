@@ -1,31 +1,32 @@
 # Student-Management-System
 
 Features:
-Developed a menu-driven Java console application to manage student academic records.
 
-Utilized ArrayList for dynamic data storage of student ID, name, total marks, and obtained marks.
+- Developed a menu-driven Java console application to manage student academic records.
 
-Implemented add, view, and grade calculation functionalities through a user-friendly menu interface.
+- Utilized ArrayList for dynamic data storage of student ID, name, total marks, and obtained marks.
 
-Created a grading system that calculates percentage and assigns grades (A+, A, B+, B, C, F).
+- Implemented add, view, and grade calculation functionalities through a user-friendly menu interface.
 
-Designed with modular programming principles, using a separate method for grade/percentage calculations.
+- Created a grading system that calculates percentage and assigns grades (A+, A, B+, B, C, F).
 
-Ensured proper input handling with Scanner class and nextLine() usage to prevent input mismatches.
+- Designed with modular programming principles, using a separate method for grade/percentage calculations.
 
-Practiced basic object-oriented programming (OOP) and data handling techniques in Java.*
+- Ensured proper input handling with Scanner class and nextLine() usage to prevent input mismatches.
+
+- Practiced basic object-oriented programming (OOP) and data handling techniques in Java.*
 
 Technologies Used:
-Java
+- Java
 
-Scanner (for user input)
+- Scanner (for user input)
 
-ArrayList (for dynamic data storage)
+- ArrayList (for dynamic data storage)
 
 Outcome:
 
-Strengthened skills in Java programming, console-based applications, and user interaction handling.
+- Strengthened skills in Java programming, console-based applications, and user interaction handling.
 
-Gained experience in writing clean, maintainable code for basic real-world problems.
+- Gained experience in writing clean, maintainable code for basic real-world problems.
 
 
